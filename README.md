@@ -1,2 +1,2 @@
 # DoomsdayClock
-##Hackathon submission for Hacktable 2021
+Hackathon submission for Hacktable 2021
